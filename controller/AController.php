@@ -1,6 +1,4 @@
 <?php
-
-
 abstract class AController
 {
     abstract function get_body();
