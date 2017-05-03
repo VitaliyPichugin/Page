@@ -1,6 +1,5 @@
 <?php
 
-
 class Auth extends AController
 {
     public function __construct(){}
